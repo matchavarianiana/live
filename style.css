@@ -1,0 +1,31 @@
+*{
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0 auto;
+  max-width: 1440px;
+}
+
+.container{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 81.91px;
+  gap: 18px;
+}
+
+body{
+  width: 100%;
+}
+
+.img{
+position: relative;
+flex-wrap: wrap;
+gap: 60px;
+}
+
+.cards{
+  width: 466.66px;
+  height: 465px;
+  
+}
